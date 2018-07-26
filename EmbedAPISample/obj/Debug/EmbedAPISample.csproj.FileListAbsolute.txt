@@ -1,0 +1,49 @@
+D:\src\personal\EmbedAPISample\EmbedAPISample\bin\Debug\EmbedAPITest.exe.config
+D:\src\personal\EmbedAPISample\EmbedAPISample\obj\Debug\EmbedAPITest.exe
+D:\src\personal\EmbedAPISample\EmbedAPISample\obj\Debug\EmbedAPITest.pdb
+D:\src\personal\EmbedAPISample\EmbedAPISample\bin\Debug\EmbedAPITest.exe
+D:\src\personal\EmbedAPISample\EmbedAPISample\bin\Debug\EmbedAPITest.pdb
+D:\src\personal\EmbedAPISample\EmbedAPISample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\src\personal\EmbedAPISample\EmbedAPISample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\src\personal\EmbedAPISample\EmbedAPISample\bin\Debug\Microsoft.PowerBI.Api.dll
+D:\src\personal\EmbedAPISample\EmbedAPISample\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\src\personal\EmbedAPISample\EmbedAPISample\bin\Debug\Newtonsoft.Json.dll
+D:\src\personal\EmbedAPISample\EmbedAPISample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\src\personal\EmbedAPISample\EmbedAPISample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+D:\src\personal\EmbedAPISample\EmbedAPISample\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+D:\src\personal\EmbedAPISample\EmbedAPISample\bin\Debug\Newtonsoft.Json.xml
+D:\src\personal\EmbedAPISample\EmbedAPISample\obj\Debug\EmbedAPISample.csprojResolveAssemblyReference.cache
+D:\src\personal\EmbedAPISample\EmbedAPISample\bin\Debug\EmbedAPISample.exe.config
+D:\src\Power BI\Embed-API-Sample\EmbedAPISample\bin\Debug\EmbedAPISample.exe.config
+C:\Users\jbrown8\Source\Repos\Embed-API-Sample\EmbedAPISample\bin\Debug\EmbedAPISample.exe.config
+C:\Users\jbrown8\Source\Repos\Embed-API-Sample3\EmbedAPISample\bin\Debug\EmbedAPISample.exe.config
+C:\Users\jbrown8\Source\Repos\Embed-API-Sample3\EmbedAPISample\bin\Debug\EmbedAPISample.exe
+C:\Users\jbrown8\Source\Repos\Embed-API-Sample3\EmbedAPISample\bin\Debug\EmbedAPISample.pdb
+C:\Users\jbrown8\Source\Repos\Embed-API-Sample3\EmbedAPISample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\jbrown8\Source\Repos\Embed-API-Sample3\EmbedAPISample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\jbrown8\Source\Repos\Embed-API-Sample3\EmbedAPISample\bin\Debug\Microsoft.PowerBI.Api.dll
+C:\Users\jbrown8\Source\Repos\Embed-API-Sample3\EmbedAPISample\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\jbrown8\Source\Repos\Embed-API-Sample3\EmbedAPISample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jbrown8\Source\Repos\Embed-API-Sample3\EmbedAPISample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\jbrown8\Source\Repos\Embed-API-Sample3\EmbedAPISample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\jbrown8\Source\Repos\Embed-API-Sample3\EmbedAPISample\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\jbrown8\Source\Repos\Embed-API-Sample3\EmbedAPISample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jbrown8\Source\Repos\Embed-API-Sample3\EmbedAPISample\obj\Debug\EmbedAPISample.exe
+C:\Users\jbrown8\Source\Repos\Embed-API-Sample3\EmbedAPISample\obj\Debug\EmbedAPISample.pdb
+\\tsclient\VM sharing folder\Embed-API-Sample\EmbedAPISample\bin\Debug\EmbedAPISample.exe.config
+\\tsclient\VM sharing folder\Embed-API-Sample\EmbedAPISample\bin\Debug\EmbedAPISample.exe
+\\tsclient\VM sharing folder\Embed-API-Sample\EmbedAPISample\bin\Debug\EmbedAPISample.pdb
+\\tsclient\VM sharing folder\Embed-API-Sample\EmbedAPISample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+\\tsclient\VM sharing folder\Embed-API-Sample\EmbedAPISample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+\\tsclient\VM sharing folder\Embed-API-Sample\EmbedAPISample\bin\Debug\Microsoft.PowerBI.Api.dll
+\\tsclient\VM sharing folder\Embed-API-Sample\EmbedAPISample\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+\\tsclient\VM sharing folder\Embed-API-Sample\EmbedAPISample\bin\Debug\Newtonsoft.Json.dll
+\\tsclient\VM sharing folder\Embed-API-Sample\EmbedAPISample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+\\tsclient\VM sharing folder\Embed-API-Sample\EmbedAPISample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+\\tsclient\VM sharing folder\Embed-API-Sample\EmbedAPISample\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+\\tsclient\VM sharing folder\Embed-API-Sample\EmbedAPISample\bin\Debug\Newtonsoft.Json.xml
+\\tsclient\VM sharing folder\Embed-API-Sample\EmbedAPISample\obj\Debug\EmbedAPISample.csprojAssemblyReference.cache
+\\tsclient\VM sharing folder\Embed-API-Sample\EmbedAPISample\obj\Debug\EmbedAPISample.csproj.CoreCompileInputs.cache
+\\tsclient\VM sharing folder\Embed-API-Sample\EmbedAPISample\obj\Debug\EmbedAPISample.csproj.CopyComplete
+\\tsclient\VM sharing folder\Embed-API-Sample\EmbedAPISample\obj\Debug\EmbedAPISample.exe
+\\tsclient\VM sharing folder\Embed-API-Sample\EmbedAPISample\obj\Debug\EmbedAPISample.pdb
